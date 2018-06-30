@@ -1,8 +1,8 @@
 # Sitecore Helix Documentation
 Sitecore Helix Documentation for eReaders
 
-Sitecore Helix is the official guidelines and recommended practises for developing in Sitecore.
-More information can be find here here:
+Sitecore Helix is the official guideline and recommended practice for developing in Sitecore.
+More information can be find here:
 - http://helix.sitecore.net/
 - https://github.com/Sitecore/Helix.Docs
 
