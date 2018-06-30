@@ -1,4 +1,4 @@
-# SitecoreHelixDocumentation
+# Sitecore Helix Documentation
 Sitecore Helix Documentation for eReaders
 
 Sitecore Helix is the official guidelines and recommended practises for developing in Sitecore.
