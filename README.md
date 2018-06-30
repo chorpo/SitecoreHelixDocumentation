@@ -8,7 +8,7 @@ More information can be find here:
 
 Official Helix documentation in above links is only in HTML and split into seperate files.
 This repository contains documentation for Sitecore Helix which is suitable for eReaders.
-All HTML pages from official documentation have been merged together and all unneccesary page parts have been removed (left like side menu, footer and so on). I have also added table of content.
+All HTML pages from official documentation have been merged together and all unneccesary page parts have been removed (left side menu, footer and so on). I have also added table of content.
 
 For each version of Helix documentation you will find seperate folder and underneath 3 type of files:
 - PDF - for PC, laptop screens or for general purposes; works on any eReader
